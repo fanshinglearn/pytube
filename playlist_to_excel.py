@@ -1,3 +1,5 @@
+# 2025/01/13 pytube 15.0.0 無法使用
+
 import os
 
 from openpyxl import Workbook
